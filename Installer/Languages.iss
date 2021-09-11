@@ -136,7 +136,7 @@ Italian.ClassicFound=È stata rilevata una installazione di Sandboxie Classic ch
 Italian.RunSandboxedMenu=Avvia nell'&area virtuale
 Italian.UninstallTaskLabel1=Seleziona tipo di disinstallazione
 Italian.UninstallTaskLabel2=Come vorresti disinstallare Sandboxie-Plus?
-Italian.UninstallTaskLabel3=&Mantieni i file di configurazione e le aree virtuali%nSeleziona questa opzione se prevedi di reinstallare Sandboxie-Plus mantenendo i file di configurazione e le aree virtuali.
+Italian.UninstallTaskLabel3=&Mantieni i file di configurazione e le aree virtuali%nSeleziona questa opzione per reinstallare Sandboxie-Plus mantenendo i file di configurazione e le aree virtuali.
 Italian.UninstallTaskLabel4=Rimuovi i file di &configurazione%nSeleziona questa opzione per rimuovere i file di configurazione Sandboxie.ini e Sandboxie-Plus.ini mantenendo le aree virtuali invariate.
 Italian.UninstallTaskLabel5=Rimuovi i file di configurazione e le &aree virtuali%nSeleziona questa opzione per rimuovere tutti i file di configurazione e le aree virtuali, compresa la cartella Sandbox presente nei percorsi personalizzati mediante FileRootPath.
 
